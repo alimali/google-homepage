@@ -4,6 +4,7 @@
   text-align: center;
   text-align: -moz-center;
   text-align: -webkit-center;
+  vertical-align: middle;
 }
 
 .logo {
@@ -11,4 +12,14 @@
   background-size: 269px 95px;
   width: 269px;
   height: 95px;
+}
+
+.search_text {
+  width: 487px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+}
+
+.button {
+  display: inline-block;
 }
