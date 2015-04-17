@@ -1,5 +1,13 @@
+.container {
+  width: 960px;
+  margin: auto;
+  text-align: center;
+  text-align: -moz-center;
+  text-align: -webkit-center;
+}
+
 .logo {
-  background: url(logo.png);
+  background: url(logo.png) no-repeat;
   background-size: 269px 95px;
   width: 269px;
   height: 95px;
